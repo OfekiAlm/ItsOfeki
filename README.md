@@ -41,6 +41,6 @@ I'm a Developer from Israel.
 ---
 ### 🎵 &nbsp; Spotify:
 [![Playlist #1](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/5QYtOL4WQjZFv58AH1lZjO?si=04c7216343df4295)
-[![Playlist #2](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/35hlGoobs1CIFafvxROmaR?si=b21c33a74ca04f0a)
+
 
 
