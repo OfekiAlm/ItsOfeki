@@ -9,11 +9,11 @@
 
 ### :technologist: &nbsp;About Me :
 
-I am a Developer from Israel.
+I'm a Developer from Israel.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -33,7 +33,14 @@ I am a Developer from Israel.
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OfekiAlm&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfekiAlm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### 🎵 &nbsp; Spotify:
+[![Playlist #1](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/5QYtOL4WQjZFv58AH1lZjO?si=04c7216343df4295)
+[![Playlist #2](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/35hlGoobs1CIFafvxROmaR?si=b21c33a74ca04f0a)
+
+
