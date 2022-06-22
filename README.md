@@ -39,8 +39,8 @@ I'm a Developer from Israel.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfekiAlm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### 🎵 &nbsp; Spotify:
-[![Playlist #1](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/5QYtOL4WQjZFv58AH1lZjO?si=04c7216343df4295)
+### 🎵 &nbsp; Discord Presnce:
+[![Discord Presence](https://lanyard.cnrad.dev/api/491168478288674816)](https://discord.com/users/740404813753483276)
 
 
 
