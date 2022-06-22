@@ -40,7 +40,5 @@ I'm a Developer from Israel.
 
 ---
 ### 🎵 &nbsp; Discord Presnce:
-[![Discord Presence](https://lanyard.cnrad.dev/api/740404813753483276)](https://discord.com/users/740404813753483276)
-
 
 
