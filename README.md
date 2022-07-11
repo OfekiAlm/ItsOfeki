@@ -3,9 +3,9 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=OfekiAlm&style=flat-square&color=orange" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></h1>
+<h1 align="center">hey there</h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" height="100"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="200"  /></p>
 
 ### :technologist: &nbsp;About Me :
 
