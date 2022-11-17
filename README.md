@@ -11,6 +11,8 @@
 
 I'm a Developer from Israel.
 
+
+![Ofek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfekiAlm&show_icons=true&theme=transparent)
 ---
 
 ### 🛠 &nbsp;Languages and Tools:
