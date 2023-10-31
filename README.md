@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **C and Java projects**
 
-- 🤵🏽I'm currently a organization manager at **[Israeli High-Tech for Unity](https://www.linkedin.com/company/israeli-high-tech-for-unity/) and [Noaar Haatid](https://chat.whatsapp.com/GA6ZcVd9plSJVuV4woyUV8).**
+- 🤵🏽I'm currently an organization manager at **[Israeli High-Tech for Unity](https://www.linkedin.com/company/israeli-high-tech-for-unity/) and [Noaar Haatid](https://chat.whatsapp.com/GA6ZcVd9plSJVuV4woyUV8).**
 
 - 📫 How to reach me **ofekalm100@gmail.com**
 
