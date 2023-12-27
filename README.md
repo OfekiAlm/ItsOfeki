@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ofek</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [GPT-ChatBot](https://github.com/OfekiAlm/WhatsApp-AI-Chatbot)
-
 - 🌱 I’m currently learning **low level and algorithms**
 
 - 👯 I’m looking to collaborate on **C and Java projects**
